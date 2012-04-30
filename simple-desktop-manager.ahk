@@ -1,3 +1,6 @@
+;usage 
+;press windows key and desktop # to jump to a desktop
+;press windows key and click mouse button for a menu of desktops to move a window to
 ;==============================================================================================
 ;Desktop Manager
 #SingleInstance, Force
